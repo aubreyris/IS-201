@@ -1,0 +1,60 @@
+h1{
+    color: #e85a4f;
+    font-size: 60px;
+    font-weight: 2000;
+}
+
+.topnav{
+    background-color: #e98074;
+    overflow: hidden;
+}
+
+.topnav a{
+    float: center;
+    color: white;
+    display: block;
+    font-size: 28px;
+    font-weight: 800;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 18px;
+}
+
+ body{
+    font-family: 'Julius Sans One';font-size: 22px;
+}
+    
+p{
+    color:white
+}
+
+.footer{
+    background-color: #e98074;
+    overflow: hidden;
+}
+
+.footer p{
+    float: center;
+    color: white;
+    display: block;
+    font-size: 28px;
+    font-weight: 800;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 18px;
+}
+
+body{
+    background-image: linear-gradient(#eae7dc,#d8c3a5);
+    text-align: center;
+}
+
+a{
+    color:#8e8d8a;
+}
+
+.tableau-center {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }

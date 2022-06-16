@@ -1,0 +1,57 @@
+h1{
+    color: #254e58
+}
+
+h2{
+    color:white
+}
+
+h3{
+    color: white
+}
+
+a{
+    color: #f6e1c5
+}
+.section-heading .section-heading-upper {
+    display: block;
+    font-size: 50px;
+    font-weight: 800;
+  }
+
+.site-heading .site-heading-upper {
+    display: block;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    color: white
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+    color: white
+}
+
+.bg-faded {
+    background-color: #88bdbc;
+  }
+
+p{
+    color: white;
+}
+
+.cta {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #254e58
+  }
+
+ 
+
+
